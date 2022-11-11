@@ -1,0 +1,15 @@
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\bin\Debug\net6.0\HomeWork_60.exe
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\bin\Debug\net6.0\HomeWork_60.deps.json
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\bin\Debug\net6.0\HomeWork_60.runtimeconfig.json
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\bin\Debug\net6.0\HomeWork_60.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\bin\Debug\net6.0\HomeWork_60.pdb
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.csproj.AssemblyReference.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.AssemblyInfoInputs.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.AssemblyInfo.cs
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.csproj.CoreCompileInputs.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\refint\HomeWork_60.dll
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.pdb
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\HomeWork_60.genruntimeconfig.cache
+C:\Users\Arzam\OneDrive\Рабочий стол\Учёба\Программирование\HomeWork 10.11.22\HomeWork_60\obj\Debug\net6.0\ref\HomeWork_60.dll
